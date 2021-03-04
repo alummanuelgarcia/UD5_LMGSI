@@ -12,12 +12,12 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <th>Autor</th>
             <th>Precio</th>           
         </tr>
-        <xsl:for-each select = "libreria/libro">
+        <xsl:for-each select = "listalibros/libros">
         <tr>
             <td><xsl:value-of select ="ISBN"/></td>
             <td><xsl:value-of select ="titulo"/></td>
             <td><xsl:value-of select ="autor"/></td>
-            <td><xsl:value-of select ="Precio"/></td>
+            <td><xsl:value-of select ="precio"/></td>
         </tr>
         </xsl:for-each>
     </table>
