@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="libreria2.xsl"?>
+<?xml-stylesheet type="text/xsl" href="libreria3.xsl"?>
 <listalibros>
     <libros>                  
     <autor>Juan Garcia</autor>       
@@ -62,13 +62,33 @@
     </libros>
 
     <libros>                  
-        <autor>Mario Jimenez</autor>       
-        <titulo>Guardia Civiles</titulo>
-        <editorial>Ed. de policia</editorial>
-        <publicacion>Febrero 2011 </publicacion>
-        <ISBN>1-232-541-27</ISBN>
-        <precio>8</precio>
-        <numpaginas>111</numpaginas>
-        </libros>
+    <autor>Mario Jimenez</autor>       
+    <titulo>Guardia Civiles</titulo>
+    <editorial>Ed. de policia</editorial>
+    <publicacion>Febrero 2011 </publicacion>
+    <ISBN>1-232-541-27</ISBN>
+    <precio>8</precio>
+    <numpaginas>111</numpaginas>
+    </libros>
+
+    <libros>                  
+    <autor>Miguel Seller</autor>       
+    <titulo>Campo</titulo>
+    <editorial>Ed. de agricultura</editorial>
+    <publicacion>Febrero 2012 </publicacion>
+    <ISBN>1-232-541-28</ISBN>
+    <precio>10.5</precio>
+    <numpaginas>150</numpaginas>
+    </libros>
+
+    <libros>                  
+    <autor>Miguel Seller</autor>       
+    <titulo>Fauna</titulo>
+    <editorial>Ed. de agricultura</editorial>
+    <publicacion>Marzo 2012 </publicacion>
+    <ISBN>1-232-541-29</ISBN>
+    <precio>12.5</precio>
+    <numpaginas>160</numpaginas>
+    </libros>
     
 </listalibros>   
