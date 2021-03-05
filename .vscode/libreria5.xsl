@@ -31,8 +31,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                         <xsl:value-of select ="numpaginas"/> 
                     </td>
                 </xsl:otherwise>
-            </xsl:choose>
-            
+            </xsl:choose>           
         </tr>
         </xsl:for-each>       
     </table>
