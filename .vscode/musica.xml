@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="musica1.xsl"?>
+<listamusica>
+
+    <cd>
+    <tituloalbum>Rosas</tituloalbum>
+    <artista>Pedro Gonzalez</artista>
+    <titulocancion>Rosa</titulocancion>
+    <sellodiscografico>Universal</sellodiscografico>
+    <añopublicacion>2003</añopublicacion>
+    </cd>
+
+    <cd>
+    <tituloalbum>Tarde en Madrid</tituloalbum>
+    <artista>Jose Dominguez</artista>
+    <titulocancion>Parque</titulocancion>
+    <sellodiscografico>Latin Music</sellodiscografico>
+    <añopublicacion>2010</añopublicacion>
+    </cd>
+
+    <cd>
+    <tituloalbum>Loca</tituloalbum>
+    <artista>Pedro Gonzalez</artista>
+    <titulocancion>Mala Mujer</titulocancion>
+    <sellodiscografico>Universal</sellodiscografico>
+    <añopublicacion>2013</añopublicacion>
+    </cd>
+
+    <cd>
+    <tituloalbum>Juntos Final</tituloalbum>
+    <artista>Lola Gutierrez</artista>
+    <titulocancion>Solos</titulocancion>
+    <sellodiscografico>Sony</sellodiscografico>
+    <añopublicacion>2020</añopublicacion>
+    </cd>
+
+    <cd>
+    <tituloalbum>Rosas</tituloalbum>
+    <artista>Pedro Gonzalez</artista>
+    <titulocancion>Ferrero</titulocancion>
+    <sellodiscografico>Universal</sellodiscografico>
+    <añopublicacion>2003</añopublicacion>
+    </cd>
+
+    <cd>
+    <tituloalbum>Heridas</tituloalbum>
+    <artista>Trapani</artista>
+    <titulocancion>Puñalada</titulocancion>
+    <sellodiscografico>La vendicion</sellodiscografico>
+    <añopublicacion>2016</añopublicacion>
+    </cd>
+
+    <cd>
+    <tituloalbum>España</tituloalbum>
+    <artista>Ana Millan</artista>
+    <titulocancion>Pais</titulocancion>
+    <sellodiscografico>Diagrama</sellodiscografico>
+    <añopublicacion>1999</añopublicacion>
+    </cd>
+
+    <cd>
+    <tituloalbum>Retornos</tituloalbum>
+    <artista>Jose Juan</artista>
+    <titulocancion>Remolino</titulocancion>
+    <sellodiscografico>Universal</sellodiscografico>
+    <añopublicacion>2010</añopublicacion>
+    </cd>
+
+    <cd>
+    <tituloalbum>Andiamo</tituloalbum>
+    <artista>Ruso Neri</artista>
+    <titulocancion>Mon amour</titulocancion>
+    <sellodiscografico>Italian Music</sellodiscografico>
+    <añopublicacion>2011</añopublicacion>
+    </cd>
+
+    <cd>
+    <tituloalbum>Lolita</tituloalbum>
+    <artista>Mercedes Ramirez</artista>
+    <titulocancion>Rosas pa tu pelo</titulocancion>
+    <sellodiscografico>Universal</sellodiscografico>
+    <añopublicacion>2007</añopublicacion>
+    </cd>
+
+</listamusica>
