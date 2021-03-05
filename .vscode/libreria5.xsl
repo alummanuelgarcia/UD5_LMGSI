@@ -24,10 +24,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                 <xsl:when test="numpaginas &gt;150">
                         <td bgcolor="#ff0000">
                         <xsl:value-of select ="numpaginas"/>
-                        </td>
+                        </td>           
                 </xsl:when>
+                <xsl:otherwise>
+                    <td bgcolor="#00FF20">
+                        <xsl:value-of select ="numpaginas"/> 
+                    </td>
+                </xsl:otherwise>
             </xsl:choose>
-            <td><xsl:value-of select ="numpaginas"/></td>
+            
         </tr>
         </xsl:for-each>       
     </table>
