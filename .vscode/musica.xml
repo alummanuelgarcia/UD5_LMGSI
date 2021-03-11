@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="cd_p3.xsl"?>
+<?xml-stylesheet type="text/xsl" href="cd_p4.xsl"?>
 <listamusica>
 
     <cd>
     <tituloalbum>Rosas</tituloalbum>
     <artista>Pedro Gonzalez</artista>
     <cancion tiempo="200">Rosa</cancion>
+    <cancion tiempo="201">Rojo</cancion>
     <sellodiscografico>Universal</sellodiscografico>
     <añopublicacion>2003</añopublicacion>
     </cd>
@@ -14,6 +15,7 @@
     <tituloalbum>Tarde en Madrid</tituloalbum>
     <artista>Jose Dominguez</artista>
     <cancion tiempo="241">Parque</cancion>
+    <cancion tiempo="190">Maiz</cancion>
     <sellodiscografico>Latin Music</sellodiscografico>
     <añopublicacion>2010</añopublicacion>
     </cd>
@@ -22,6 +24,7 @@
     <tituloalbum>Loca</tituloalbum>
     <artista>Pedro Gonzalez</artista>
     <cancion tiempo="340">Mala Mujer</cancion>
+    <cancion tiempo="345">Trigo</cancion>
     <sellodiscografico>Universal</sellodiscografico>
     <añopublicacion>2013</añopublicacion>
     </cd>
@@ -30,6 +33,7 @@
     <tituloalbum>Juntos Final</tituloalbum>
     <artista>Lola Gutierrez</artista>
     <cancion tiempo = "138">Solos</cancion>
+    <cancion tiempo="120">Lo lamento</cancion>
     <sellodiscografico>Sony</sellodiscografico>
     <añopublicacion>2020</añopublicacion>
     </cd>
@@ -38,6 +42,7 @@
     <tituloalbum>Rosas</tituloalbum>
     <artista>Pedro Gonzalez</artista>
     <cancion tiempo="422">Ferrero</cancion>
+    <cancion tiempo="203">Mundo</cancion>
     <sellodiscografico>Universal</sellodiscografico>
     <añopublicacion>2003</añopublicacion>
     </cd>
@@ -46,6 +51,7 @@
     <tituloalbum>Heridas</tituloalbum>
     <artista>Trapani</artista>
     <cancion tiempo="346">Puñalada</cancion>
+    <cancion tiempo="190">Rosa 2</cancion>
     <sellodiscografico>La vendicion</sellodiscografico>
     <añopublicacion>2016</añopublicacion>
     </cd>
@@ -54,6 +60,7 @@
     <tituloalbum>España</tituloalbum>
     <artista>Ana Millan</artista>
     <cancion tiempo="123">Pais</cancion>
+    <cancion tiempo="140">Raya</cancion>
     <sellodiscografico>Diagrama</sellodiscografico>
     <añopublicacion>1999</añopublicacion>
     </cd>
@@ -62,6 +69,7 @@
     <tituloalbum>Retornos</tituloalbum>
     <artista>Jose Juan</artista>
     <cancion tiempo="254">Remolino</cancion>
+    <cancion tiempo="190">Naci en Malaga</cancion>
     <sellodiscografico>Universal</sellodiscografico>
     <añopublicacion>2010</añopublicacion>
     </cd>
@@ -70,6 +78,7 @@
     <tituloalbum>Andiamo</tituloalbum>
     <artista>Ruso Neri</artista>
     <cancion tiempo= "320">Mon amour</cancion>
+    <cancion tiempo="213">Pelo blanco</cancion>
     <sellodiscografico>Italian Music</sellodiscografico>
     <añopublicacion>2011</añopublicacion>
     </cd>
@@ -78,6 +87,7 @@
     <tituloalbum>Lolita</tituloalbum>
     <artista>Mercedes Ramirez</artista>
     <cancion tiempo="210">Rosas pa tu pelo</cancion>
+    <cancion tiempo="130">Menda</cancion>
     <sellodiscografico>Universal</sellodiscografico>
     <añopublicacion>2007</añopublicacion>
     </cd>

@@ -9,17 +9,28 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <tr bgcolor="#19EC34">
             <th>Titulo Album</th>
             <th>Artista</th>
-            <th>Titulo Cancion</th>
             <th>Sello Discografico</th>
-            <th>Año Publicacion</th>           
+            <th>Año Publicacion</th> 
+            <th>Titulo Cancion</th>
+                      
         </tr>
         <xsl:for-each select = "listamusica/cd">
         <tr>
             <td><xsl:value-of select ="tituloalbum"/></td>
             <td><xsl:value-of select ="artista"/></td>
-            <td><xsl:value-of select ="cancion"/></td>
             <td><xsl:value-of select ="sellodiscografico"/></td>
             <td><xsl:value-of select ="añopublicacion"/></td>
+
+            <td>
+                <xsl:for-each select ="cancion">
+
+                    <xsl:value-of select="."/>
+                    <br/>
+
+                </xsl:for-each>
+            </td>
+
+           
         </tr>
         </xsl:for-each>
     </table>
