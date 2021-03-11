@@ -18,7 +18,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <tr>
             <td><xsl:value-of select ="tituloalbum"/></td>
             <td><xsl:value-of select ="artista"/></td>
-            <td><xsl:value-of select ="titulocancion"/></td>
+            <td><xsl:value-of select ="cancion"/></td>
             <td><xsl:value-of select ="sellodiscografico"/></td>
             <td><xsl:value-of select ="añopublicacion"/></td>
         </tr>
